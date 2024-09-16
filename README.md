@@ -1,2 +1,4 @@
-# Gimp_EditordeImagens
+# Gimp
+
+-Atividade Banner👾
  
